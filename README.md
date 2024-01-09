@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheCrazyCoderII
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... discord
-- 📫 How to reach me ... discord
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on discord
+- 📫 How to reach me: discord
 
 <!---
 TheCrazyCoderII/TheCrazyCoderII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
